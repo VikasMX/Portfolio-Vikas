@@ -1,0 +1,116 @@
+a:link{
+    text-decoration: none;
+}
+
+#about{
+    padding: 2% 10%;
+    background-color: #FCD8D4;
+}
+.about-div{
+    text-align: center;
+    padding: 3% 20%;
+}
+
+.about-txt{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 3rem;
+}
+.text{
+    font-family: 'Short Stack', cursive;
+    color: #54436B;
+}
+
+.about-img{
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+
+.center{
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#first{
+    background-color: #F9F3F3;
+    height: 50rem;
+}
+
+.first-heading{
+    padding-left: 17%;
+    padding-top: 20rem;
+}
+
+.heading-sub{
+    padding-left: 17%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+}
+
+.first-img{
+    padding-top: 6rem;
+    padding-right: 20%;
+}
+
+.form{
+    background-color: #F9F3F3;
+    padding: 3% 20%;
+}
+
+#navbarScroll{
+    padding-right: 3%;
+}
+
+.first-btn{
+    padding-top: 5;
+    padding-left: 17%;
+}
+
+#skills{
+    background-color: #E8F9FD;
+    padding: 3% 15%;
+}
+
+.skills-text{
+    text-align: center;
+    color: #180A0A;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-size: 3rem;
+    font-family: 'Staatliches', cursive;
+}
+
+.submit-button{
+    text-align: center;
+    padding-top: 2%;
+}
+h3{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2rem;
+}
+
+.bar-skills{
+    padding-top: 1%; 
+    padding-bottom: 1%;
+}
+
+.skills-container{
+    padding: 2% 30%;
+}
+#work{
+    text-align: center;
+    background-color: #BDE6F1;
+    padding: 7% 15%;
+}
+
+.work-img{
+    padding-top: 3%;
+    width: 60%;
+    border-radius: 20%;
+}
+
+.work-text{
+    color: #005A8D;
+    font-size: 3rem;
+    font-family: 'Cabin Sketch', cursive;
+}
+
